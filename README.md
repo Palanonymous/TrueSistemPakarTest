@@ -1,8 +1,6 @@
-============================================================
   PSEUDOCODE SISTEM PAKAR DDA
   Dynamic Difficulty Adjustment — Game Boss
   (Menggunakan Forward Chaining + Certainty Factor)
-============================================================
 
 
 ────────────────────────────────────────────────────────────
