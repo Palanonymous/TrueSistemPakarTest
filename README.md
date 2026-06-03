@@ -44,26 +44,6 @@ Sistem menghitung rata-rata dari 5 indikator (HP, Potion, Waktu, Kematian, Level
 | **Clear Time** | 0 - 60 mnt | Di bawah 10 menit ideal ($100\%$), di atas 30 menit otomatis *Lose* |
 | **Jumlah Respawn** | 0 - 20 kali | Tidak pernah mati ideal ($100\%$), di atas 6 kali otomatis *Lose* |
 
----
-
-## 💻 Cara Menjalankan Proyek
-
-1.  Pastikan Anda telah memasang **.NET SDK** di perangkat Anda.
-2.  Klon repositori ini ke komputer lokal Anda:
-    ```bash
-    git clone [https://github.com/Palanonymous/TrueSistemPakarTest.git](https://github.com/Palanonymous/TrueSistemPakarTest.git)
-    ```
-3.  Masuk ke direktori proyek:
-    ```bash
-    cd TrueSistemPakarTest/TrueSistemPakarTest
-    ```
-4.  Jalankan aplikasi menggunakan perintah dotnet:
-    ```bash
-    dotnet run
-    ```
-
----
-
 ## 📂 Struktur Repositori
 
 ```text
